@@ -25,5 +25,3 @@ jobs:
 
     - name: Run Bot
       run: python MainKitsu.py
-
-
